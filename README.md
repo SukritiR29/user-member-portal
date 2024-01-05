@@ -19,4 +19,4 @@ Welcome to the Admin Portal UX project! This admin portal provides a user-friend
 
 ## Usage
 
-Visit the [Website](https://weather-app-sukritir29.vercel.app/) 
+Visit the [Website](https://user-member-portal.vercel.app/) 
